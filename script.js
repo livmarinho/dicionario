@@ -133,7 +133,7 @@ function carregaDicionario() {
       },
 
       bio16: {
-        nome:"Benedita a Silva",
+        nome:"Benedita da Silva",
         imagem:"https://i.postimg.cc/FR7djrNN/benedita-sa-silva.jpg",
         descricao:"Primeira senadora negra do Brasil, também sendo ativista política do Movimento Negro e assumidamente feminista, Benedita Sousa da Silva nasceu no dia 26 de abril de 1942, no Hospital Municipal Miguel Couto, no Rio de Janeiro. Filha da lavadeira Maria da Conceição Sousa da Silva, e do pedreiro e lavador de carro José Tobias da Silva. A família era de baixa renda e residia na favela da Praia do Pinto, no Leblon. Esta comunidade não existe mais, pois foi completamente destruída nos anos 1960 por um incêndio. Por ocasião das comemorações do IV Centenário da Cidade do Rio de Janeiro, em 1965, e também por seu ativismo político desde muito cedo, foi indicada como representante do bairro de Copacabana, no concurso de mulheres sambistas promovido pela Prefeitura, tendo sido eleita a Miss IV Centenário. Sua atuação nos movimentos de favela, no movimento negro e de mulheres foi o início para sua candidatura como vereadora nas eleições municipais de 1982 pela legenda do Partido dos Trabalhadores. Foi a única mulher afro-brasileira eleita para o cargo de deputada federal constituinte, reeleita para um segundo mandato em 1990, sendo eleita senadora em 1994, com mais de 2 milhões e 400 mil votos, e vice-governadora no pleito de 1998.",
         citação:"A escravidão mudou do chicote para a caneta.",
